@@ -1,4 +1,4 @@
-![Text](logo_white.png)
+![Text](logo.png)
 
 `mwydyn` (*Welsh*: worm; *pronounced*: muy-din; IPA: [ˈmʊi̯dɪn])
 
