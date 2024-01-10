@@ -1,4 +1,4 @@
-![Text](logo_black.png)
+![Text](logo_white.png)
 
 `mwydyn`: The Welsh word for *earthworm*, pronounced “muy-din”.
 
