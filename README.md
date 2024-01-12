@@ -1,4 +1,6 @@
-![Text](logo.png)
+<p align="center">
+<img src="logo.png" alt="" width="512"/>
+</p>
 
 `mwydyn` (*Welsh*: worm; *pronounced*: muy-din; IPA: [ˈmʊi̯dɪn])
 
