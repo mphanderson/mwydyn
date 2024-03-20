@@ -8,6 +8,8 @@
 
 `mwydyn` is a fully-automated multiple velocity component hyperfine line-fitting code.
 
+## Citation
+
 If you use `mwydyn` please consider citing [Rigby et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1172R/abstract) and Anderson et al. (in prep).
 
 _2024-03-20: Public release coming spring 2024..._
