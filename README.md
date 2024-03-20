@@ -2,21 +2,25 @@
 <img src="logo.png" alt="" width="512"/>
 </p>
 
-`mwydyn` (*Welsh*: worm; *pronounced*: muy-din; IPA: [ˈmʊi̯dɪn])
+`mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn])
 
 # About
 
 `mwydyn` is a fully-automated multiple velocity component hyperfine line-fitting code.
 
-*2024-01-08: Public release coming soon...*
+If you use `mwydyn` please consider citing [Rigby et al. (2024)]https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1172R/abstract and Anderson et al. (in prep).
+
+_2024-03-20: Public release coming spring 2024..._
 
 ## Developers
 
 `mwydyn` was developed by:
-* Michael Anderson
-* Andrew Rigby
+
+- Michael Anderson
+- Andrew Rigby
 
 With contributions from:
-* Nicolas Peretto
-* Gwenllian Williams
-* Sarah Ragan
+
+- Nicolas Peretto
+- Gwenllian Williams
+- Sarah Ragan
