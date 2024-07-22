@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" alt="" width="512"/>
+<img src="logo.jpg" alt="" width="512"/>
 </p>
 
 `mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn])
