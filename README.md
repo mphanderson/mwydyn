@@ -4,6 +4,8 @@
 
 `mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn])
 
+[![DOI](https://zenodo.org/badge/740533582.svg)](https://zenodo.org/doi/10.5281/zenodo.12821279)
+
 # About
 
 `mwydyn` is a fully-automated multiple velocity component hyperfine line-fitting code.
