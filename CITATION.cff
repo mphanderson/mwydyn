@@ -20,6 +20,6 @@ title: "mwydyn"
 version: 1.0.0
 identifiers:
 - type: doi
-  value: 10.5281/zenodo.12821280
+  value: 10.5281/zenodo.########
 date-released: 2024-07-25
 url: "https://github.com/mphanderson/mwydyn"
