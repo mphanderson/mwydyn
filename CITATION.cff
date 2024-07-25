@@ -18,8 +18,8 @@ authors:
   orcid: "https://orcid.org/0000-0003-4164-5588"
 title: "mwydyn"
 version: 1.0.0
-# identifiers:
-#  - type: doi
-#    value: 10.5281/zenodo.12821280
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.12821280
 date-released: 2024-07-25
 url: "https://github.com/mphanderson/mwydyn"
