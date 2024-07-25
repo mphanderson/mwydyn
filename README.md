@@ -4,7 +4,6 @@
 
 `mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn])
 
-[![DOI](https://zenodo.org/badge/740533582.svg)](https://zenodo.org/doi/10.5281/zenodo.12821279)
 
 # About
 
@@ -24,6 +23,8 @@ With contributions from:
 - Sarah Ragan
 
 If you use `mwydyn` please consider citing [Rigby et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1172R/abstract) and Anderson et al. (in prep).
+
+[![DOI](https://zenodo.org/badge/740533582.svg)](https://zenodo.org/doi/10.5281/zenodo.12821279)
 
 # Dependencies
 
