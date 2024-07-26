@@ -708,7 +708,7 @@ def plot_fits(fitlist, precision=2, title=None, components=True):
         if fit.success:
             fitstring = 'converged'
         else:
-            fistring = 'not converged'
+            fitstring = 'not converged'
 
         ax = fig.add_subplot(len(fitlist), 1, ncomps)
         ax.plot(fit.userkws['vels'], fit.residuals,
