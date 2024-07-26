@@ -1575,7 +1575,7 @@ def spatial_refit_figure(crop_back=True, back_pad=10):
 
 # ============= Wrap-up stage: save output and summary figures ============== #
 
-def header_comments(header)
+def header_comments(header):
     """
     Adds versions of packages used as comments to an input FITS header.
     NOTE: If we want to add dependencies, they need to be imported.
