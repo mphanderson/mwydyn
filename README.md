@@ -24,7 +24,7 @@ With contributions from:
 
 If you use `mwydyn` please consider citing [Rigby et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1172R/abstract) and Anderson et al. (in prep).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12913454.svg)](https://doi.org/10.5281/zenodo.12913454)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12924330.svg)](https://doi.org/10.5281/zenodo.12924330)
 
 # Dependencies
 
