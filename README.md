@@ -42,7 +42,7 @@ For more up-to-date versions of python, (e.g. 3.11.x), some of the parallel proc
 
 # Installation
 
-While we hope to eventually convert `mwdydn` into a `pip`-installable package, it is simple to use as a script. The recommended procedure is to install directly from this github page:
+While we hope to eventually convert `mwydyn` into a `pip`-installable package, it is simple to use as a script. The recommended procedure is to install directly from this github page:
 
 ```console
 $ cd /your/project/directory
