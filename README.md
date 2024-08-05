@@ -2,7 +2,7 @@
 <img src="docs/logo.jpg" alt="" width="512"/>
 </p>
 
-`mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn])
+`mwydyn` (_Welsh_: worm; _pronounced_: muy-din; IPA: [ˈmʊi̯dɪn]; [listen](docs/mwydyn_pronunciation.mp3)
 
 
 # About
