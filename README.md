@@ -26,6 +26,10 @@ If you use `mwydyn` please consider citing [Rigby et al. (2024)](https://ui.adsa
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12821279.svg)](https://doi.org/10.5281/zenodo.12821279)
 
+## Performance statistics
+- 131 spectra per minute per core (Apple M2, 2022)
+- 10 spectra per minute per core (Intel Xeon E5-2640 v4 2.40GHz, 2016)
+
 # Dependencies
 
 `mwydyn` was written and tested in python version 3.9.18. It requires the following packages, and has been tested on the version in parentheses.
