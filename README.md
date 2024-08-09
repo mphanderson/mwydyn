@@ -11,6 +11,8 @@
 
 **Motivation**: The code was written to perform automatic spectral-decomposition of N<sub>2</sub>H<sup>+</sup> (1-0) data cubes using a hyperfine model. We were finding that in much of our data, the 'isolated' component of N<sub>2</sub>H<sup>+</sup> (1-0) that is often used for Gaussian decomposition was heavily blended, and so we had to model the full hyperfine structure for effective decomposition. This code largely follows the hyperfine modeling implemented by [GILDAS/CLASS](https://www.iram.fr/IRAMFR/GILDAS/doc/html/class-html/node8.html), and is subject to the same assumptions and caveats. While, by default we allow up to 3 separate N<sub>2</sub>H<sup>+</sup> (1-0) velocity components per spectrum, in principle this is extensible to an arbitrary number, as well as other molecules or transitions with hyperfine structure.
 
+## Credit
+
 `mwydyn` was developed by:
 
 - Michael Anderson
@@ -27,7 +29,8 @@ If you use `mwydyn` please consider citing [Rigby et al. (2024)](https://ui.adsa
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12821279.svg)](https://doi.org/10.5281/zenodo.12821279)
 
 ## Performance statistics
-- 131 spectra per minute per core (Apple M2, 2022)
+- 57 spectra per minute per core (Apple M3 Pro, 2023)
+- 33 spectra per minute per core (Apple M2, 2022)
 - 10 spectra per minute per core (Intel Xeon E5-2640 v4 2.40GHz, 2016)
 
 # Dependencies
